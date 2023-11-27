@@ -1,0 +1,11 @@
+npm install -g @angular
+
+ng version
+
+ng new project_name
+
+cd project_name
+
+ng serve
+
+http://localhost:4200
